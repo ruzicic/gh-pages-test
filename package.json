@@ -101,7 +101,7 @@
     "purifycss-webpack": "^0.7.0",
     "regenerator": "^0.12.3",
     "sass-loader": "^6.0.7",
-    "serve": "^6.5.3",
+    "serve": "^10.1.2",
     "standard-version": "^4.3.0",
     "style-loader": "^0.20.3",
     "stylelint": "^9.2.0",
